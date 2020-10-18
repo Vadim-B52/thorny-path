@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Workspace
+   version = "1.0">
+   <FileRef
+      location = "group:Taxi.xcodeproj">
+   </FileRef>
+   <FileRef
+      location = "group:Pods/Pods.xcodeproj">
+   </FileRef>
+   <FileRef
+      location = "group:UIComponents">
+   </FileRef>
+   <FileRef
+      location = "group:UIComponents/UIComponents.xcodeproj">
+   </FileRef>
+   <FileRef
+      location = "group:UICardViewController">
+   </FileRef>
+   <FileRef
+      location = "group:UICardViewController/UICardViewController.xcodeproj">
+   </FileRef>
+   <FileRef
+      location = "group:UIHelpers">
+   </FileRef>
+   <FileRef
+      location = "group:UIHelpers/UIHelpers.xcodeproj">
+   </FileRef>
+   <FileRef
+      location = "absolute:/Users/vadim-b/Projects/thorny-path/ThornyPath/04_umbrella/Umbrella">
+   </FileRef>
+   <FileRef
+      location = "group:Umbrella/Umbrella.xcodeproj">
+   </FileRef>
+   <FileRef
+      location = "group:SPMSupport">
+   </FileRef>
+</Workspace>

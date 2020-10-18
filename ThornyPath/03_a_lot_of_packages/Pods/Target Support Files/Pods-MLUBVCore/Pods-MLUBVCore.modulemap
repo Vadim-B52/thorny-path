@@ -1,0 +1,6 @@
+module Pods_MLUBVCore {
+  umbrella header "Pods-MLUBVCore-umbrella.h"
+
+  export *
+  module * { export * }
+}

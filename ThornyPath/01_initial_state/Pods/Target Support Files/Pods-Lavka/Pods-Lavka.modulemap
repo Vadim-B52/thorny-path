@@ -1,0 +1,6 @@
+module Pods_Lavka {
+  umbrella header "Pods-Lavka-umbrella.h"
+
+  export *
+  module * { export * }
+}

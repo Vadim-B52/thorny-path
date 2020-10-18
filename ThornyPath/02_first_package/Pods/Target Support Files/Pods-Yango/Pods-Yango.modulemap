@@ -1,0 +1,6 @@
+module Pods_Yango {
+  umbrella header "Pods-Yango-umbrella.h"
+
+  export *
+  module * { export * }
+}

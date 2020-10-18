@@ -1,0 +1,6 @@
+module Pods_YandexTaxiLike {
+  umbrella header "Pods-YandexTaxiLike-umbrella.h"
+
+  export *
+  module * { export * }
+}

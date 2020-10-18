@@ -1,0 +1,3 @@
+SDKROOT = iphoneos;
+SWIFT_TREAT_WARNINGS_AS_ERRORS = YES;
+MACH_O_TYPE = staticlib;
